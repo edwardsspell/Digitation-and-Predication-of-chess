@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="chessper">Chess</string>
+    <string name="todo">TODO</string>
+    <string name="scan_board">Scan Board</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="predict">Predict</string>
+    <string name="enter_ip_address">Enter Ip Address</string>
+    <string name="enter_port_no">Enter Port No.</string>
+</resources>
